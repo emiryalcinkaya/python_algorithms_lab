@@ -64,10 +64,10 @@ This repository follows a progressive learning approach:
 
 This repository is inspired by:
 
-- TheAlgorithms/Python
 - Python Documentation
-- Python Crash Course by Eric Matthes
-- Various algorithm and data structure learning resources
+- Grokking Algorithms – Aditya Bhargava
+- GeeksforGeeks
+- LeetCode
 
 ---
 
